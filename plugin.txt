@@ -1,3 +1,4 @@
-name "Enter the name of your plugin here. The name will be displayed in the list of plugins when you install it."
-about "Enter some text that describes your plugin here. This text will be displayed in the plugin description box when you have installed and selected your plugin."
-about "Use multiple 'about' nodes to create new paragraphs in the description box, if necessary."
+name "Devil Run patch"
+about "Adds back the ships, systems, sounds, and images that were removed in 0.11.0. All I can promise is that this plugin makes the Conundrum start from Lost in Midnight actually work. It might fix other things too."
+authors
+	"alecmon2"
